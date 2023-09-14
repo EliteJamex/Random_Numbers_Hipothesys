@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P0JEwikhU0TuxVR4c/GXOdWu14Wkh9kGxXtTeYdvGl2ERN0QTJ3T4ocKzPWHiH64JflK127xtqMcO5mlPC4h8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batde\\OneDrive\\Escritorio\\TecSim\\TecSim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batde\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
